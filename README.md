@@ -21,14 +21,13 @@
 <a href="https://expressjs.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/express/express-original.svg" alt="express" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://aws.amazon.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.php.net/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Webysther_20160423_-_Elephpant.svg/2560px-Webysther_20160423_-_Elephpant.svg.png" alt="php" width="40" height="40" style="max-width: 100%;"> </a>
 
 ### Currently Learning:
 
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://socket.io/" rel="nofollow"> <img src="https://socket.io/images/logo.svg" alt="socket.io" width="40" height="40" style="max-width: 100%;"> </a>
-
-
 
 
 <!--
