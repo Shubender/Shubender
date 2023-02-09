@@ -26,6 +26,7 @@
 ### Currently Learning:
 
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://jestjs.io/" rel="nofollow"> <img src="https://www.testautomatisierung.org/wp-content/uploads/jest-icon.jpg" alt="jestjs" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://socket.io/" rel="nofollow"> <img src="https://socket.io/images/logo.svg" alt="socket.io" width="40" height="40" style="max-width: 100%;"> </a>
 
