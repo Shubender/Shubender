@@ -29,6 +29,9 @@
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://socket.io/" rel="nofollow"> <img src="https://socket.io/images/logo.svg" alt="socket.io" width="40" height="40" style="max-width: 100%;"> </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubender)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubender)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Shubender/Shubender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
