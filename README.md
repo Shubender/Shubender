@@ -6,6 +6,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://reactjs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://laravel.com/" rel="nofollow"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://redux.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://vuejs.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
@@ -28,7 +29,6 @@
 <a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://jestjs.io/" rel="nofollow"> <img src="https://www.testautomatisierung.org/wp-content/uploads/jest-icon.jpg" alt="jestjs" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png" alt="mongodb" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://socket.io/" rel="nofollow"> <img src="https://socket.io/images/logo.svg" alt="socket.io" width="40" height="40" style="max-width: 100%;"> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubender)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubender)](https://github.com/anuraghazra/github-readme-stats)
